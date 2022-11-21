@@ -5,9 +5,9 @@ if (primera_letra== "a" or primera_letra=="b" or primera_letra=="c" or primera_l
    curso= input("Por Favor ingrese su Turno: "+"\n") 
    print ("Usted corresponde al: ", end="")
    if (curso== "tarde"):
-    print ("Grupo tipo A")
+    print ("Grupo  A")
    else:
-    print ("Grupo Tipo BB") 
+    print ("Grupo B") 
 else:
     curso= input("Por Favor ngrese su turno!: "+"\n") 
     print ("Usted corresponde al: ", end="")
