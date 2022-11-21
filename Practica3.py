@@ -10,7 +10,7 @@ if (primera_letra== "a" or primera_letra=="b" or primera_letra=="c" or primera_l
     print ("Grupo B") 
 else:
     curso= input("Por Favor ngrese su turno!: "+"\n") 
-    print ("Usted corresponde al: ", end="")
+    print ("Usted actualmente corresponde al: ", end="")
     if (curso== "noche"):
      print ("Grupo A")
     else:
